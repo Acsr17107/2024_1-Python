@@ -1,0 +1,6 @@
+Fnum = int(input('Enter First number: '))
+Snum = int(input('Enter Second number: '))
+print('12 / 5 ==>', Fnum / Snum)
+print('12 % 5 ==>', Fnum % Snum)
+print('12 // 5 ==>', Fnum // Snum)
+print('12 ** 5 ==>', Fnum ** Snum)
