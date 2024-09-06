@@ -1,0 +1,7 @@
+a, b = map(float, input('실수 두개 입력 >> ').split())
+print('{0} > {1} 결과: {2}'.format(a, b, a > b))
+print('{0} >= {1} 결과: {2}'.format(a, b, a >= b))
+print('{0} < {1} 결과: {2}'.format(a, b, a < b))
+print('{0} <= {1} 결과: {2}'.format(a, b, a <= b))
+print('{0} == {1} 결과: {2}'.format(a, b, a == b))
+print('{0} != {1} 결과: {2}'.format(a, b, a != b))
