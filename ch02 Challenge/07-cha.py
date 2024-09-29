@@ -1,7 +1,0 @@
-num1 = float.fromhex(input('첫 번째 16진수 실수 입력 >> '))
-num2 = float.fromhex(input('두 번째 16진수 실수 입력 >> '))
-print('실수1:', num1, '실수2:', num2)
-print('합:', num1 + num2)
-print('차:', num1 - num2)
-print('곱하기:', num1 * num2)
-print('나누기:', num1 / num2)
